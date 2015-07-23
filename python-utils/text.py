@@ -1,8 +1,5 @@
 # coding: utf-8
-
-#-------------------------------------------------------------------------------
-# Strings
-#-------------------------------------------------------------------------------
+from __future__ import unicode_literals
 
 def isBlank(s):
     """Check if string is empty or whitespace-only
